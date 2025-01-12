@@ -12,6 +12,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.1.2
   signals_core: ^6.0.2
 
 dev_dependencies:
